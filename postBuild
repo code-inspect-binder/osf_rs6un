@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/rs6un_src/Code and simulations results second revision - March 2021/Simulation Study I/AR")' >> /home/jovyan/.Rprofile
